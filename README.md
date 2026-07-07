@@ -28,4 +28,5 @@ I am currently exploring multimodal AI, with an emphasis on developing practical
 ## About
 
 - **Education:** B.Tech in Computer Science (AI/ML), PES University (2024–2028)
-- **Writing:** I occasionally publish technical articles documenting concepts, projects, and implementation details as I learn — [Medium](https://medium.com/@Vaishali_Krishnan)
+- **Writing:** I occasionally publish technical articles documenting concepts, projects, and implementation details as I learn.
+https://medium.com/@Vaishali_Krishnan
