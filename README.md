@@ -1,5 +1,4 @@
-# Hi, I'm Vaishali Krishnan
-
+# Hi, I'm Vaishali.
 I'm a B.Tech Computer Science (AI/ML) student at PES University (Class of 2028) with a primary interest in computer vision, multimodal machine learning, and applied AI systems.
 
 My work focuses on understanding how vision models and language models can be combined to solve real-world problems. I am particularly interested in multimodal reasoning, image forensics, representation learning, and building AI systems that move beyond isolated models to complete, deployable applications.
